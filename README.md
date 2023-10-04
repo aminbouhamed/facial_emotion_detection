@@ -4,8 +4,7 @@
 ----------
 
 ### Emotion Detection
-
-Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. This topic talks about building a model which can detect an emotion from an image. There key points to be followed are:
+This topic talks about building a model which can detect an emotion from an image or from a live webcam . There key points to be followed are:
 
 1. Data gathering and  augmentation
 
@@ -42,7 +41,7 @@ To train your own emotion detection model, Refer to the notebook /facial_emotion
 
 ### For Emotion Detection  using Webcam 
 #### Clone the repo:
-Run `pip install -r requirements.txt` <br/>
+Run `pip install -r requirementss.txt` <br/>
 ` python Emotion_Detection.py`
 
 
