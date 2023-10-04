@@ -25,8 +25,8 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
    <img src="./Test_Images/detectedimgangry.jpg" alt="index1" height="300px"/>
    <img src="./Test_Images/detectedimgneutral.jpg" alt="index2" height="300px"/>
-    <img src="./Test_Images/detectedimgsad.jpg" alt="index3" height="300px"/>
-
+   <img src="./Test_Images/detectedimgsad.jpg" alt="index3" height="300px"/>
+   <img src="./Test_Images/detectedimghappy.jpg" alt="index3" height="300px"/>
 #### The model will be able to detect 7 types of emotions:-
  #####  Angry , Sad ,  Neutral ,  Disgust ,  Surprise ,  Fear  , and   Happy
 
